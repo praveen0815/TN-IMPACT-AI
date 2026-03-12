@@ -1,0 +1,8 @@
+{
+  "name": "SentinelChain AI",
+  "description": "Intelligent Supply Chain Risk Intelligence Platform for real-time disruption monitoring, ML risk prediction, and digital twin simulations.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
